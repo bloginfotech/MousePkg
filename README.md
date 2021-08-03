@@ -1,4 +1,4 @@
-# test_mouse_efi
+# MousePkg
 projet efi pour tester la souris
 pour construire le projet:
 
