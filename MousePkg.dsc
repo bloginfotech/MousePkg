@@ -25,5 +25,5 @@
   HiiLib|MdeModulePkg/Library/UefiHiiLib/UefiHiiLib.inf
 
 [Components]
-  /home/jeff/wrk/MousePkg/mouse.inf
+  MousePkg/mouse.inf
  
