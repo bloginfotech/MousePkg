@@ -8,6 +8,6 @@ cd <installation d'edk2>
 
 . edksetup.sh
 
-git clone https://
+git clone https://github.com/bloginfotech/MousePkg.git
 
 build -a X64 -t GCC5 -p MousePkg/MousePkg.dsc
